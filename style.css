@@ -1,0 +1,30 @@
+body {
+
+background-repeat: yes-repeat;
+background-attachment: fixed;
+background-color: #140a2e;
+text-align: center;
+}
+table.center {
+margin-left: auto; 
+margin-right: auto;
+background-color: #080752;
+}
+
+a:link{ color: black; font-size:15px; text-decoration: none; font-weight: bold; }
+a:visited{ color: #FFFFFF; font-size: 15px; font-weight: bold; }
+a:hover{ color: #FFFFFF; text-decoration: underline;  font-size: 15px; 
+}
+table, tr, td {
+border: 1.5px dashed black;
+font-family : verdana,tahoma,arial; 
+font-size: 10px; line-height: 1.5 
+}
+
+body.image {
+background-repeat: yes-repeat;
+background-attachment: fixed;
+background-color: #140a2e;
+text-align: center;
+}
+
